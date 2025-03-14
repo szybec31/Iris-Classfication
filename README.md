@@ -8,7 +8,7 @@ Iris database include three type of iris (setosa, versicolor and virginica). Eac
 ## Exercise 1.
 
 - Read data from file
-- Preapare data for visualisation
+- Preapare data for visualization
 - Create chart of two features
 
 ![Visualizatoin](Photo/zad1.png)
@@ -16,7 +16,7 @@ Iris database include three type of iris (setosa, versicolor and virginica). Eac
 ## Exercise 2.
 
 - Read data from file
-- Preapare data for visualisation
+- Preapare data for visualization
 - Create chart of each combination of features
 
 ![Parametry symulacji](Photo/zad2.png)
@@ -24,7 +24,7 @@ Iris database include three type of iris (setosa, versicolor and virginica). Eac
 ## Exercise 3.
 
 - Read data from file
-- Preapare data for visualisation
+- Preapare data for visualization
 - Calculate location of centroids
 - Calculate and select nearest distance of new iris from each class
 
